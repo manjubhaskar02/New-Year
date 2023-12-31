@@ -32,7 +32,7 @@ body {
 }
 
 .container.newyear .text {
-    transform: rotateX(calc(-360deg*1));
+    transform: rotateX(calc(-360deg*2));
 }
 
 .container.newyear .text:last-child {
