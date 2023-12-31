@@ -80,12 +80,12 @@ h2 {
     color: #252525;
     font-size: 4em;
     cursor: pointer;
-    transition: 0.5s;
+    transition: 1s;
 }
 
 h2.active {
     color: #fff;
-    text-shadow: 0 0 20px #fff, 0 0 50px #fff;
+    text-shadow: 0 0 40px #fff, 0 0 60px #fff;
 }
 
 h2::after {
